@@ -23,7 +23,7 @@ export default function Goo() {
           />
         </filter>
       </svg>
-      new
+
       <div
         className="hooks-main"
         onMouseMove={(e) => set({ xy: [e.clientX, e.clientY] })}
