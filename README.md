@@ -1,2 +1,0 @@
-# goo
-Created with CodeSandbox
